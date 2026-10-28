@@ -1,0 +1,13 @@
+# Instrucciones para subir SRCL a GitHub
+
+1. Abre tu terminal de Git en la raíz del proyecto descomprimido.
+2. Inicializa el repositorio:
+   git init
+3. Agrega todos los archivos:
+   git add .
+4. Realiza el primer commit:
+   git commit -m "Commit inicial: Proyecto Web SRCL en Java, Servlets y JSP"
+5. Crea un repositorio en GitHub llamado "SRCL_Web".
+6. Vincula y sube el código:
+   git remote add origin https://github.com/TU_USUARIO/SRCL_Web.git
+   git push -u origin main
