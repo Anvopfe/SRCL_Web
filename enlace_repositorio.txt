@@ -1,0 +1,17 @@
+===================================================================
+EVIDENCIA DE DESEMPEÑO: Codificación de módulos del software (Móvil Flutter)
+CÓDIGO DE EVIDENCIA: GA7-220501096-AA3-EV01
+APRENDIZ: Andres Felipe Cárdenas Álvarez
+PROYECTO: Sistema de Reserva de Citas en Línea (srcl_app)
+===================================================================
+
+ENLACE AL REPOSITORIO DE GITHUB:
+https://github.com/Anvopfe/SRCL_Web.git
+
+-------------------------------------------------------------------
+COMPONENTES Y VISTAS DESARROLLADAS EN FLUTTER:
+1. Ventana Inicial de Bienvenida (WelcomeScreen)
+2. Menú Principal con Drawer lateral y Modal BottomSheet (HomeScreen)
+3. Funcionalidad 1: Agendamiento y Reserva de Citas (BookingScreen)
+4. Funcionalidad 2: Consulta e Historial con ListView y Cancelación (AppointmentsScreen)
+===================================================================
